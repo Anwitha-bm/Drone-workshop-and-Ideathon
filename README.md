@@ -1,4 +1,4 @@
-Problem:
+PROBLEM:
 In many parts of the world, residential areas are dangerously close to forests or dry open lands, making them highly vulnerable to wildfires. These fires can spread rapidly, causing property loss and endangering lives before emergency services can respond.
 There's a strong need for an affordable, lightweight, and autonomous system that can monitor such high-risk zones, detect early warning signs, and send timely alerts to prevent disaster.
 
